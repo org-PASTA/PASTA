@@ -2,7 +2,7 @@
 <div align="center">
   <img src=".github/PASTA_icon.png" alt="PASTA Icon" width="200"/>
   
-  # Gigapixel multilevel virtual tumor tissue phenotyping by pathological foundation models
+  # A plug-and-play framework for multilevel virtual tissue phenotyping by pathological foundation model
   
   [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow)](https://huggingface.co/collections/tongjideltalab/pasta)
   [![Docker](https://img.shields.io/badge/Docker-Available-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/repository/docker/bm2labtongji/pasta/general)
@@ -566,7 +566,7 @@ If you find this repository useful, please consider giving a star ⭐ and citati
 ```bibtex
 @software{PASTA,
   author = {Fangliangzi Meng},
-  title = {Gigapixel multilevel virtual tumor tissue phenotyping by pathological foundation models},
+  title = {A plug-and-play framework for multilevel virtual tissue phenotyping by pathological foundation model},
   url = {https://github.com/DELTA-TJ-submission/PASTA},
   year = {2025},
 }

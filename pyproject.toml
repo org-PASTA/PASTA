@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "pasta"
 version = "0.1.1"
-description = "PASTA - Gigapixel multilevel virtual tumor tissue phenotyping by pathological foundation models"
+description = "PASTA - A plug-and-play framework for multilevel virtual tissue phenotyping by pathological foundation model"
 requires-python = ">=3.8"
 authors = [
     {name = "Fangliangzi Meng", email = "mengflz@tongji.edu.cn"}
